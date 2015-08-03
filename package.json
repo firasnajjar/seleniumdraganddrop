@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "devDependencies": {
     "selenium-webdriver":"~2.46.1",
-    "mocha": "^2.2.5",
-    "jquery": "~2.1.4"
+    "mocha": "^2.2.5"
   },
   "private": true
 }
